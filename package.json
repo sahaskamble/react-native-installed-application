@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "danilrafiqi"
+  },
+  "version": "1.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Getting started",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-installed-application",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  }
+}
