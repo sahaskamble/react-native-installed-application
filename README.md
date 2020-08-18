@@ -74,7 +74,7 @@ export default App;
 #### 1 - getApps()
 #### 2 - getNonSystemApps()
 #### 3 - getSystemApps()
-#### 4 - isPackageInstalled()
+#### 4 - isPackageInstalled(packageName)
 
 ## Result 
 

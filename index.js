@@ -13,8 +13,8 @@ const getNonSystemApps = () => {
 const getSystemApps = () => {
     return RNInstalledApplication.getSystemApps();
 }
-const isPackageInstalled = () => {
-    return RNInstalledApplication.isPackageInstalled();
+const isPackageInstalled = (packageName) => {
+    return RNInstalledApplication.isPackageInstalled(packageName);
 }
 
 export default {
