@@ -150,7 +150,7 @@ public class RNInstalledApplicationModule extends ReactContextBaseJavaModule {
 
   @ReactMethod
   private boolean isPackageInstalled(String packageName) {
-    PackageManager pm = this.ctx.getPackageManager();
+    PackageManager pm = this.reactContext.getPackageManager();
     try {
       pm.getPackageInfo(packageName, PackageManager.GET_ACTIVITIES);
       return true;
