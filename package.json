@@ -2,7 +2,7 @@
   "author": {
     "name": "danilrafiqi"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +12,11 @@
   "keywords": [
     "react-native"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilrafiqi/react-native-open-application.git",
+    "baseUrl": "https://github.com/danilrafiqi/react-native-open-application"
+  },
   "license": "MIT",
   "main": "index.js",
   "name": "react-native-installed-application",
