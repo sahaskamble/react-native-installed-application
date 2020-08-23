@@ -6,6 +6,8 @@
 [![Download](http://img.shields.io/npm/dm/react-native-installed-application.svg)](https://www.npmjs.com/package/react-native-installed-application)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.github.com/danilrafiqi/react-native-installed-application/master/LICENSE)
 
+This package is support by [daridasar.com](https://daridasar.com)
+
 React Native module which provides list of installed Android applications.
 
 - Work for android
