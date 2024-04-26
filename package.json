@@ -22,7 +22,6 @@
   "license": "MIT",
   "peerDependencies": {
     "react-native": "0.74.0",
-    "react-native-windows": "0.41.0-rc.1"
   },
   "repository": {
     "type": "git",
